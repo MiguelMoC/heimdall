@@ -1,0 +1,8 @@
+{
+  "name": "heimdall",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "bdd79f08"
+}
